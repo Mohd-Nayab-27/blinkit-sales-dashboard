@@ -1,4 +1,5 @@
 Blinkit Grocery Store Sales Analysis
+
 Overview
 This project involves a comprehensive analysis of Blinkit grocery store sales performance, customer satisfaction, and inventory distribution. The primary goal is to extract key insights using data visualizations created in Power BI.
 
