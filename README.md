@@ -62,18 +62,12 @@ All Metrics by Outlet Type
 How to Use
 
 To explore the visualizations and insights:
-
-
 Open the Power BI report file (Blinkit_Sales_Analysis.pbix).
-
 Navigate through the different report pages to view the visualizations.
-
 Interact with the visuals to gain deeper insights into the sales data.
 
 Files
-
 Blinkit_Sales_Analysis.pbix: The Power BI report file containing all the visualizations.
 
 Conclusion
-
 This analysis provides a detailed look into Blinkit's sales performance, customer satisfaction, and inventory distribution. The insights gained from these visualizations can help drive data-driven decisions for the business.
